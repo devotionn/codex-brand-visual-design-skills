@@ -10,3 +10,4 @@
 - Shared brief, quality, asset-rights, and delivery rules.
 - Chinese team usage guide and baseline documentation.
 - Lightweight skill-tree validator.
+- Cold-start evaluation briefs for routing, source-truth, review, and production boundaries.
